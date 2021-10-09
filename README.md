@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IxeDev
 - 👀 I’m interested in ... C# and C++ coding
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... My C# Titan Legends game project
+- 💞️ I’m looking to collaborate on ... TriDash Game Engine
 - 📫 How to reach me ... ixeblade1@gmail.com
 
 <!---
